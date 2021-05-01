@@ -1,36 +1,40 @@
-﻿# Sitio Web estático
+# Static website 
 
-## Descripción
+static websites offer the same content every time you visit it. The browser retrieves the content from the server when a visitor types the URL of a static site. The retrieved content is then interpreted to show it as attractive in the browser window.
 
-Como su nombre indica que los sitios web estáticos ofrecen el mismo contenido cada vez que lo visita. 
+![mini](mini.png)
 
-El explorador recupera el contenido del servidor cuando un visitante escribe la dirección URL de un sitio estático. A continuación, se interpreta el contenido recuperado para mostrarlo como un sitio atractivo en la ventana del explorador.
 
-##  Características de un sitio web estático
+## ⚙️ Finality of the proyect
 
-- Se utiliza principalmente para distribuir una información fija desde el servidor web al explorador que se ejecuta en un equipo cliente.
+It is mainly used to distribute fixed information from the web server to the browser running on a client computer.
 
-- Todos los visitantes verán exactamente el mismo contenido cada vez que carguen la página.
-- Por lo general, los sitios estáticos se crean con Hyper Text Markup Language (HTML), pero no es necesario que todas las páginas HTML sean estáticas. Por ejemplo, un código JavaScript incrustado en una página HTML seguirá mostrándole como página HTML con extensión .html cuando se abra en un explorador.
-- El sitio estático es más adecuado para distribuir contenido fijo que no cambia con el tiempo o no necesita actualización frecuente.
+All visitors will see the exact same content every time they load the page.
 
-## 🛠️ Construido con :
+Generally, static sites are created with Hyper Text Markup Language (HTML), but not all HTML pages need to be static. For example, a JavaScript code embedded in an HTML page will continue to display as an HTML page with an .html extension when opened in a browser.
 
-* [Visual Studio Code](https://code.visualstudio.com/) 
+The static site is best suited for distributing fixed content that does not change over time or does not need frequent updating.
 
-## ✒️ Autor
+## 🛠️ Build with :
 
-**Sebastián Echazú** 
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5) 
+* [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
-* [Facebook](https://www.facebook.com/sebastian.echazu.1)
-* [Instagram](https://www.instagram.com/seba_storm)
-* [Twitter](https://twitter.com/seba_storm)
+## ✒️ Author
+
+> **Sebastián Echazú** 
+
+* [Web](https://sebastianechazu.com/)
+* [LinkedIn](https://www.linkedin.com/in/sebastian-echazu/)
+* [Twitter](https://twitter.com/sebasechazu)
 * [Github](https://github.com/SebastianEchazu)
 
-## 🎁 Expresiones de Gratitud 
+## 🎁 Expressions of Gratitude 
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ al autor.  🤓. 
+* Tell others about this project 📢
+* Invite a beer 🍺 or a coffee ☕ to the author.  🤓. 
 
 ---
-⌨️ con ❤️ por [Sebastian Echazu](https://github.com/SebastianEchazu) 😊
+⌨️ with ❤️ for Sebastian Echazú 😊
+
